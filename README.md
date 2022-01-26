@@ -15,6 +15,9 @@ In order to run and modify this program on your personal machine, you will need 
 Pip install pillow
 pip install plyer 
 
+FEATHER information u can check in word doc >
+<THANK YOU>
+
 
 
 
